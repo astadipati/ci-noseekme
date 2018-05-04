@@ -1523,8 +1523,8 @@
     <script src="<?php echo base_url('assets/noseek_template/js/bootstrap.min.js') ?>" type="text/javascript"></script>
     <script src="<?php echo base_url('assets/noseek_template/js/custom.js') ?>" type="text/javascript"></script>
     <!-- <script src="../_vendor/jquery/dist/jquery.min.js"></script> -->
-    <script src="../_vendor/popper.js/dist/umd/popper.min.js"></script>
+    <!-- <script src="../_vendor/popper.js/dist/umd/popper.min.js"></script>
     <script src="../_vendor/bootstrap/dist/js/bootstrap.min.js"></script>
-    <script src="../_assets/js/custom.js"></script>
+    <script src="../_assets/js/custom.js"></script> -->
   </body>
 </html>
